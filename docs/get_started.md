@@ -12,7 +12,7 @@ Minecraft 的模组都需要通过模组加载器 (Mod Loader) 加载才能正�
 
 请安装 Java 21 (JDK) 和 64 位的 JVM。NeoForge 推荐和支持 [Microsoft 构建的 OpenJDK](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-21)，但其他版本的 JDK 同样有效。
 
-::: warning
+::: warning 警告
 确保使用的是 **64 位**的 JVM，可以在控制台中执行 `java -version` 查看 JVM 版本。使用 32 位的 JVM 可能导致一系列问题。
 :::
 
