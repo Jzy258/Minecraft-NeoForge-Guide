@@ -24,7 +24,7 @@ Minecraft 的模组都需要通过模组加载器 (Mod Loader) 加载才能正�
 
 打开 Mod Developer Kit (MDK)（[ModDevGradle](https://github.com/NeoForgeMDKs/MDK-1.21.1-ModDevGradle) 或 [NeoGradle](https://github.com/NeoForgeMDKs/MDK-1.21.1-NeoGradle)）的 Github 仓库，点击 “Use this template” 并将新建的仓库 clone 到本地。
 
-如果你不想使用 Github，
+如果你不想使用 Github，或者
 
 If you do not want to use GitHub, or if you want to get the template for an older commit, you can also download the ZIP of the repository (under Code -> Download ZIP) and extract it.
 Open your IDE and import the Gradle project. Eclipse and IntelliJ IDEA will do this automatically for you. If you have an IDE that does not do this, you can also do it via the gradlew terminal command.
